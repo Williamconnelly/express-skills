@@ -1,0 +1,22 @@
+[
+	{
+		"name": "HTML",
+		"level": 8
+	},
+	{
+		"name": "CSS",
+		"level": 6
+	},
+	{
+		"name": "Javascript",
+		"level": 7
+	},
+	{
+		"name": "Node",
+		"level": 6
+	},
+	{
+		"name": "Express",
+		"level": 7
+	}
+]
