@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+a {
+	font-size: 2em;
+	border: 1px solid black;
+	background-color: gray;
+	color: white;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+input {
+	height: 3em;
+	width: 20em;
+	display: inline-block;
+	margin-top: 3%;
+	font-size: 1em;
+	padding: 0;
+	text-align: center;
+}
+
+input[type="submit"] {
+	width: 10em;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	margin-top: 1%;
+}

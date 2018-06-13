@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Skills</title>
+		<link rel="stylesheet" href="/css/style.css">
+	</head>
+	<body>
+		<h3>These are my skills and skill levels</h3>
+		<ul>
+			<% skills.forEach(function(skill) { %>
+			<li><%= skill.name %> - Level: <%= skill.level %></li>
+			<% }); %>
+		</ul>
+		<br />
+		<a href="/">Home</a>
+	</body>
+</html>
